@@ -1,0 +1,13 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+backend/retos.db
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+uploads/*.mp4
+uploads/*.mov
+uploads/*.webm
+dist/
+.env
